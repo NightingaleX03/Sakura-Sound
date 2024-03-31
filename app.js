@@ -1,6 +1,5 @@
-//import artists from './artists.js';
-//import songs from './songs.js';
-const { artists, songs } = window;
+import artists from './artists.js';
+import songs from './songs.js';
 
 window.onload = function () {
   var menu = document.getElementById("menu");
