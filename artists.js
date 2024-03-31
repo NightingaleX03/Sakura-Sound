@@ -4,7 +4,7 @@
  * The app's list of Artists
  */
 
-window.artists = [
+const artists = [
   {
     artistId: "AID-10001",
     name: "One Ok Rock",
@@ -54,3 +54,4 @@ window.artists = [
     ]
   }
 ];
+export default artists;
