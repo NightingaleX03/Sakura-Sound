@@ -6,8 +6,8 @@
 
 ### :computer:	Sakura Sound is built with:
 - ![alt text](https://img.shields.io/badge/Java_Script-ebb3b3)
-- Css
-- HTML
+- ![alt_text](https://img.shields.io/badge/CSS-ebb3b3)
+- ![alt_text](https://img.shields.io/badge/HTML-ebb3b3)
 
 ### :clipboard: Goals for Sakura Sound:
 - [x] Use real-time data stored in js files "songs.js" and "artists.js"
