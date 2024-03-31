@@ -3,7 +3,7 @@
 *:O Hello fellow human beings <br>*
 *Thank you for stopping by! Are you wondering what this is? well great question!<br>*
 *This is Sakura Sound a webpage dedicated to 4 artists of my choosing, One Ok Rock, Blue Encount, Survive Said the Prophet, and MY FIRST STORY! <br>*
-
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 ### :computer:	Sakura Sound is built with:
 - ![alt text](https://img.shields.io/badge/Java_Script-ebb3b3)
 - ![alt_text](https://img.shields.io/badge/CSS-ebb3b3)
