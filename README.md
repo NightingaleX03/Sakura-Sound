@@ -29,7 +29,7 @@ All images and photos are documented in the songs.js file and artsits.js file, a
 
 ### [Sakura Music](https://nightingalex03.github.io/SakuraSound/)
 
-Fun Fact: This site started off as a classroom project for WEB 222 however this assignment has inspired me to continue developing this plateform in the future
+Fun Fact: This site started off as a classroom project for WEB 222 however this assignment has inspired me to continue developing this plateform in the future <br>
 
 > "Something may start of small and irrelevant however every small treasure has a bright future ahead. :star2:"
 
