@@ -4,7 +4,7 @@
  * The app's songs
  */
 
-window.songs = [
+const songs = [
   {
     songId: "SID-111222331",
     artistId: "AID-10001",
@@ -303,3 +303,4 @@ window.songs = [
     explicit: false
   }
 ];
+export default songs;
