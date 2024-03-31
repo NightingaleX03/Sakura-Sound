@@ -5,7 +5,7 @@
 *This is Sakura Sound a webpage dedicated to 4 artists of my choosing, One Ok Rock, Blue Encount, Survive Said the Prophet, and MY FIRST STORY! <br>*
 
 ### :computer:	Sakura Sound is built with:
-- https://img.shields.io/badge/Java_Script-ebb3b3
+- ![alt text](https://img.shields.io/badge/Java_Script-ebb3b3)
 - Css
 - HTML
 
