@@ -1,4 +1,4 @@
-# :cherry_blossom: Sakura Sound
+# 💮 Sakura Sound
 
 *:O Hello fellow human beings <br>*
 *Thank you for stopping by! Are you wondering what this is? well great question!<br>*
