@@ -1,4 +1,4 @@
-# 💮 Sakura Sound
+# ![alt_text](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png) Sakura Sound
 
 *:O Hello fellow human beings <br>*
 *Thank you for stopping by! Are you wondering what this is? well great question!<br>*
