@@ -1,4 +1,4 @@
-# ![alt_text](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png) Sakura Sound
+# ![alt_text](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png =50x50) Sakura Sound
 
 *:O Hello fellow human beings <br>*
 *Thank you for stopping by! Are you wondering what this is? well great question!<br>*
@@ -16,7 +16,7 @@
 - [x] Understanding of basic transformations/animations
 - [x] Useage of visual "cards" to display song details
 
-### :cherry_blossom: Sakura Sound Future Goals:
+### ![alt_text](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png =50x50) Sakura Sound Future Goals:
 The future of Sakura Sound is currently uncertain... However I plan to impliment better useage of song details and create a database suitable for storing data rather than replying upon js files.<br>
 Some short terms goals however are:
 - [ ] Better storage or songs/artists data
@@ -24,7 +24,7 @@ Some short terms goals however are:
 - [ ] Creating user personal login accounts
   - [ ] Possible ratings of Songs? Possible Liking feature of user songs? etc.
 
-### :cherry_blossom: Sakura Sound Credits:
+### ![alt_text](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png =50x50) Sakura Sound Credits:
 All images and photos are documented in the songs.js file and artsits.js file, all rights and ownership of videos and images belong to the video and image holders. Source code from index.html, and apps.js are all written by NightingaleX03.
 
 ### [Sakura Music](https://nightingalex03.github.io/SakuraSound/)
