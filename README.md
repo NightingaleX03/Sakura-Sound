@@ -1,9 +1,9 @@
-# ![](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png =50x50) Sakura Sound
+# :white_flower: Sakura Sound
 
 *:O Hello fellow human beings <br>*
 *Thank you for stopping by! Are you wondering what this is? well great question!<br>*
 *This is Sakura Sound a webpage dedicated to 4 artists of my choosing, One Ok Rock, Blue Encount, Survive Said the Prophet, and MY FIRST STORY! <br>*
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
 ### :computer:	Sakura Sound is built with:
 - ![alt text](https://img.shields.io/badge/Java_Script-ebb3b3)
 - ![alt_text](https://img.shields.io/badge/CSS-ebb3b3)
@@ -16,7 +16,7 @@
 - [x] Understanding of basic transformations/animations
 - [x] Useage of visual "cards" to display song details
 
-### ![](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png =50x50) Sakura Sound Future Goals:
+### :white_flower: Sakura Sound Future Goals:
 The future of Sakura Sound is currently uncertain... However I plan to impliment better useage of song details and create a database suitable for storing data rather than replying upon js files.<br>
 Some short terms goals however are:
 - [ ] Better storage or songs/artists data
@@ -24,7 +24,7 @@ Some short terms goals however are:
 - [ ] Creating user personal login accounts
   - [ ] Possible ratings of Songs? Possible Liking feature of user songs? etc.
 
-### ![](https://em-content.zobj.net/source/facebook/355/cherry-blossom_1f338.png =50x50) Sakura Sound Credits:
+### :white_flower: Sakura Sound Credits:
 All images and photos are documented in the songs.js file and artsits.js file, all rights and ownership of videos and images belong to the video and image holders. Source code from index.html, and apps.js are all written by NightingaleX03.
 
 ### [Sakura Music](https://nightingalex03.github.io/SakuraSound/)
