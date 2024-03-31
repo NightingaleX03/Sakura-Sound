@@ -28,7 +28,6 @@ Some short terms goals however are:
 All images and photos are documented in the songs.js file and artsits.js file, all rights and ownership of videos and images belong to the video and image holders. Source code from index.html, and apps.js are all written by NightingaleX03.
 
 ### [Sakura Music](https://nightingalex03.github.io/SakuraSound/)
-###<a href="https://nightingalex03.github.io/SakuraSound/" style="color: ebb3b3; text-decoration: underline;text-decoration-style: dotted;">Sakura Music</a>
 
 :sparkles: Fun Fact: This site started off as a classroom project for WEB 222 however this assignment has inspired me to continue developing this plateform in the future <br>
 
